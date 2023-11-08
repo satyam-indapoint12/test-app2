@@ -19,11 +19,9 @@ const api  = {
     get(url){
         return fetcher(url);
     },
-    getAllCafes(){
-        return this.get(ROUTES.getAllCafes())
+    getAllProducts(){
+        return this.get(ROUTES.getAllProducts())
     },
-    getAllCafesTiming(){
-      return this.get(ROUTES.getAllCafesTiming())
-    }
+
 }
 export default api;

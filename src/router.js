@@ -1,15 +1,19 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import HomeContainer from './containers/home';
+import Layout from './common/layout';
 
-import CafesContainer from './containers/cafes';
-import CafeInfoContainer from './containers/cafe-info'
+
 
 function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path="/" element={<CafesContainer />} />
-        <Route exact path="/cafes/:id" element={<CafeInfoContainer />} />
+        <Route exact path="/" element={
+        <Layout>
+          <HomeContainer />
+        </Layout>
+        } />
       </Routes>
     </BrowserRouter>
   );
