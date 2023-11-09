@@ -1,4 +1,5 @@
 import moment from 'moment-timezone';
+import getSymbolFromCurrency from 'currency-symbol-map'
 
 
 // export const currentTime = (currentTiming) => {
@@ -18,3 +19,7 @@ export const convertIstToUtc = (istDateTime, format = 'YYYY-MM-DD HH:mm:ss') => 
     return moment(istDateTime).utc().format(format);
 };
   
+export const priceWithCurrency = (price, symbol = 'USD', prefix = true) =>{
+    // For check symbol use console.log(currencyToSymbolMap)
+    return prefix ? `${getSymbolFromCurrency(symbol)}${price}` : `${price}${getSymbolFromCurrency(symbol)}`
+}
