@@ -1,9 +1,15 @@
+"use client";
+
 import Router from './router'
+import { AppProvider } from "./shared/providers";
 
 function App() {
   return (
     <div className="App">
-      <Router />
+      <AppProvider>
+        <Router />
+      </AppProvider>
+
     </div>
   );
 }

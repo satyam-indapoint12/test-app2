@@ -12,7 +12,7 @@ function Switcher() {
     es: { title: 'Español' },
   };
   
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
   return (
       <ToggleButtonGroup
       exclusive

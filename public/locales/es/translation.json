@@ -2,7 +2,10 @@
     "main": {
       "header": "Diseño del álbum",
       "heading": "¡Bienvenido/a a la app!",
-      "panelHeading": "Algo breve y convincente sobre la colección a continuación: su contenido, el creador, etc. Hazlo breve y conciso, pero no demasiado breve para que la gente no lo saltes por completo."
+      "panelHeading": "Algo breve y convincente sobre la colección a continuación: su contenido, el creador, etc. Hazlo breve y conciso, pero no demasiado breve para que la gente no lo saltes por completo.",
+      "notfound": "Extraviado",
+      "badRequest": "Solicitud incorrecta",
+      "serverError": "Solicitud de servidor interno"
     }
   }
   
