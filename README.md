@@ -2,9 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+NOTE: 
+
+npm install -g json-server to run local json server
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run dev` to run development mode with json server 
 
 ### `npm start`
 
