@@ -9,7 +9,8 @@
       "Ratings": [
         5,
         5
-      ]
+      ],
+      "price": 50
     },
     {
       "Id": "jenlooper-light",
@@ -18,7 +19,9 @@
       "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
       "title": "A beautiful switch-on book light",
       "description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "jenlooper-lightshow",
@@ -27,7 +30,9 @@
       "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
       "title": "Bling your Laptop with an Internet-Connected Light Show",
       "description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "jenlooper-survival",
@@ -36,7 +41,9 @@
       "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
       "title": "Create a Compact Survival Kit with LED Track Lighting",
       "description": "Use an Altoids tin with Chibitronics sticker LEDs to create a light-up compact that doubles as a survival kit for the young hipster",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "sailorhg-bubblesortpic",
@@ -45,7 +52,9 @@
       "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
       "title": "Bubblesort Visualization",
       "description": "Visualization of sailor scouts sorted by bubblesort algorithm by their planet\u0027s distance from the sun",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "sailorhg-corsage",
@@ -54,7 +63,9 @@
       "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
       "title": "Light-up Corsage",
       "description": "Light-up corsage I made with my summer intern.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "sailorhg-kit",
@@ -63,7 +74,9 @@
       "Url": "https://twitter.com/sailorhg/status/1090122822007963648",
       "title": "Pastel hardware kit",
       "description": "Pastel hardware kits complete with custom manufactured pastel alligator clips.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "sailorhg-led",
@@ -72,7 +85,9 @@
       "Url": "https://twitter.com/sailorhg/status/1090117277540745216",
       "title": "Heart-shaped LED",
       "description": "custom molded heart shaped LED with sprinkles.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "selinazawacki-soi-shirt",
@@ -81,7 +96,9 @@
       "Url": "https://www.instagram.com/p/BNvESj-j8PI/",
       "title": "Black Sweatshirt",
       "description": "Black sweatshirt hoody with the Sick of the Internet logo.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "selinazawacki-soi-pins",
@@ -90,7 +107,9 @@
       "Url": "https://www.instagram.com/p/BNm6hZzDoEF/",
       "title": "Sick of the Internet Pins",
       "description": "Still some time to enter the pin/sticker giveaway! ",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "vogueandcode-hipster-dev-bro",
@@ -99,7 +118,9 @@
       "Url": "https://www.vogueandcode.com/shop/hipster-dev-bro",
       "title": "Hipster Dev",
       "description": "Hipster Dev is busy coding away while styled in a camo jacket and orange beanie.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "vogueandcode-pretty-girls-code-tee",
@@ -108,7 +129,9 @@
       "Url": "https://www.vogueandcode.com/shop/pretty-girls-code-tee",
       "title": "Pretty Girls Code Tee",
       "description": "Everyone\u2019s favorite design is finally here on a tee! The Pretty Girls Code crew-neck tee is available in a soft pink with red writing.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "vogueandcode-ruby-sis-2",
@@ -136,7 +159,9 @@
         5,
         5,
         5
-      ]
+      ],
+      "price": 50
+
     },
     {
       "Id": "selinazawacki-moon",
@@ -145,7 +170,9 @@
       "Url": "https://www.instagram.com/p/BFktVYPinKQ/",
       "title": "Holographic Dark Moon Necklace",
       "description": "Not sure if I\u0027ll be making more, get it while I have it in the store.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     },
     {
       "Id": "selinazawacki-shirt",
@@ -154,6 +181,8 @@
       "Url": "https://www.instagram.com/p/BEXlpiZCnJ3",
       "title": "Floppy Crop",
       "description": "Used up the Diskette fabric today to make 2 of these crops.",
-      "Ratings": null
+      "Ratings": null,
+      "price": 50
+
     }
   ]
